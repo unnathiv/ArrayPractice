@@ -19,7 +19,7 @@ public class FirstLetterOfWordInString {
 	public static void main(String[] args) {
 		String s = "Trying to implement";
 		
-		System.out.println(firstLetter(s));
+		System.out.println("Printing first letters of the string: "+firstLetter(s));
 
 	}
 
